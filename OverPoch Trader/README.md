@@ -1,7 +1,7 @@
 OverPoch Trader Installation
 ==============================
 
-To Install: 
+**To Install**: 
 
 Download and Unpack your server PBO.
 
