@@ -27,3 +27,11 @@ Complete - very easy :)
 Link to screenshots: 
  
 http://imgur.com/a/GPCPx 
+
+
+Bank Zone Modification
+==============================
+
+I have supplied the mission files to for you to make changes if needed. 
+
+Please feel free to contact me if you have modified and would like to add it to the repo.
