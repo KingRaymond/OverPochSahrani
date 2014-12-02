@@ -1,13 +1,13 @@
-Tools used: 
+**Tools used**: 
  
 Notepad++
 In Game WorldSpace coords
  
-Credits (as this is what I am using): 
+**Credits (as this is what I am using)**: 
  
 chris aka infiSTAR (used the entire script - merely changed the custom positions/zones)
  
-Installation instructions: (Please make sure you backup all files you replace - just in case)
+**Installation instructions**: (Please make sure you backup all files you replace - just in case)
  
 Mission PBO -> 
 Create a folder called scripts in the root of your PBO
