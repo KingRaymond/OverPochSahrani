@@ -15,9 +15,11 @@ Soul for the 2.0 extension
 **Installation instructions**: (Please make sure you backup all files you replace - just in case)
  
 *Server PBO* ->
+
 Copy banks.sqf in to dayz_server\bankzones\ - overwrite the current banks.sqf
 
 *Mission PBO* -> 
+
 Copy addbankmarkers.sqf in to DayZ_Epoch_22.smd_sahrani_A2\gold\  - overwrite the current addbankmarkers.sqf
 
 Complete - very easy :)
