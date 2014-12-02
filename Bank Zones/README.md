@@ -14,7 +14,7 @@ Soul for the 2.0 extension
  
 **Installation instructions**: (Please make sure you backup all files you replace - just in case)
  
-*Server PBO* -> 
+*Server PBO* ->
 Copy banks.sqf in to dayz_server\bankzones\ - overwrite the current banks.sqf
 
 *Mission PBO* -> 
